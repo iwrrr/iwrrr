@@ -17,9 +17,15 @@ Here are some ideas to get you started:
 
 # Halo semua! 
 
-Perkenalkan nama saya **Irya Muhammad Riyadhi**.\
+Perkenalkan nama saya **Irya Muhammad Riyadhi**.
 
-Saya seorang **Fullstack Developer** di Fasilkom Unsika.\
+Saya seorang **Fullstack Developer** di Fasilkom Unsika.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/irya-muhammad-9494971b3/)ku ya.
 
+<p align="left">
+<a href="https://github.com/iwrrr">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
