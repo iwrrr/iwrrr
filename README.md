@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Halo semua! 
+
+Perkenalkan nama saya **Irya Muhammad Riyadhi**.\
+
+Saya seorang **Fullstack Developer** di Fasilkom Unsika.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/irya-muhammad-9494971b3/)ku ya.
+
