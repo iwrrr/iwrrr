@@ -33,6 +33,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 - 🔭 I’m currently working on Web Developer at Fasilkom Unsika
 - 🌱 I’m currently learning Mobile Development
 
+<br>
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iwrrr&row=2&column=2&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,A,B" alt="iwrrr"/></a>
 </p>
