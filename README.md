@@ -28,7 +28,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <h1 align="center">Hi 👋, I'm Irya</h1>
 <h3 align="center">A student mobile developer from Indonesia. I am interested in Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iwrrr&label=Profile%20views&color=0e75b6&style=flat" alt="iwrrr" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=iwrrr&label=Profile%20views&color=0e75b6&style=flat" alt="iwrrr"/></p>
 
 - 🔭 I’m currently working on Web Developer at Fasilkom Unsika
 - 🌱 I’m currently learning Mobile Development
@@ -58,14 +58,15 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 </p>
 
 <h3 align="left">My GitHub Stats:</h3>
+
 <p align="left">
-  <a href="https://github.com/iwrrr" target="_blank">
+  <a href="https://github.com/iwrrr" align="center">
     <img height="180em" src="https://github-readme-stats-delta-snowy.vercel.app/api?username=iwrrr&show_icons=true&include_all_commits=true&count_private=true&border_radius=8" alt="iwrrr"/>
     <img height="180em" src="https://github-readme-stats-delta-snowy.vercel.app/api/top-langs/?username=iwrrr&layout=compact&langs_count=8&theme=default"/>
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwrrr&" alt="iwrrr" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwrrr&" alt="iwrrr"/></p>
 
 <h3>Follow:</h3>
-<a href="https://instagram.com/iwrrr__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iwrrr__" height="30" width="40" /></a>
+<a href="https://instagram.com/iwrrr__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iwrrr__" height="30" width="40"/></a>
