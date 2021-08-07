@@ -63,12 +63,12 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 <p align="left">
   <a href="https://github.com/iwrrr">
-    <img height="180em" src="https://github-readme-stats-delta-snowy.vercel.app/api?username=iwrrr&show_icons=true&include_all_commits=true&count_private=true&border_radius=8" alt="iwrrr"/>
-    <img height="180em" src="https://github-readme-stats-delta-snowy.vercel.app/api/top-langs/?username=iwrrr&layout=compact&langs_count=8&theme=default"/>
+    <img height="180em" src="https://github-readme-stats-delta-snowy.vercel.app/api?username=iwrrr&show_icons=true&include_all_commits=true&count_private=true&border_radius=8&theme=algolia&hide_border=true" alt="iwrrr"/>
+    <img height="180em" src="https://github-readme-stats-delta-snowy.vercel.app/api/top-langs/?username=iwrrr&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
   </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwrrr&" alt="iwrrr"/></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwrrr&theme=algolia&hide_border=true" alt="iwrrr"/></p>
 
 <h3>Follow:</h3>
 <a href="https://instagram.com/iwrrr__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iwrrr__" height="30" width="40"/></a>
