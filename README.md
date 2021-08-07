@@ -67,7 +67,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   </a>
 </p>
 
-<h3 align="left">My GitHub Stats:</h3>
+<h3 align="left">My Contributions:</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iwrrr&theme=algolia&hide_border=true" alt="iwrrr"/></p>
 
 <h3>Follow:</h3>
